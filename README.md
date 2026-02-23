@@ -1,0 +1,1 @@
+# servicenow-user-deletion-validation
